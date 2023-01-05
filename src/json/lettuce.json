@@ -1,0 +1,51 @@
+{
+  "iceberg" : {
+    "url":"iceberg",
+  "name" : "Iceberg Lettuce" ,
+  "skill_level" : "novice" ,
+  "taste" : "crisp",
+  "indoor" : "no",
+  "outdoor" : "yes",
+  "plant_type": "annual",
+  "cold_tolerant" : "no",
+  "light" : "highs",
+  "size" : "medium",
+  "photo" : "photos/iceberg.jpg",
+  "rating" : 5,
+  "difficultiness" : "easy"
+},
+"butterhead" : {
+  "url":"butterhead",
+  "name" : "Butter Lettuce" ,
+  "skill_level" : "novice" ,
+  "taste" : "soft, smooth",
+  "plant_type" : "annual",
+  "indoor" : "no",
+  "outdoor" : "yes",
+  "cold_tolerant" : "no",
+  "light" : "high",
+  "size" : "large",
+  "photo" : "photos/butterhead.jpg",
+  "rating" : 4,
+  "difficultiness" : "easy",
+  "about" : " The plant is a plant that grows with care. You can grow and make a lovely vegtable for your at home garde. ",
+  "plant_guide" : "Grow with a lot of sun. In the spring with moist soil and a lot of water."
+},
+"arugula" : {
+  "url":"arugula",
+  "name" : "Arugula Lettuce" ,
+  "skill_level" : "novice" ,
+  "taste" : "tart, peppery",
+  "plant_type" : "annual",
+  "indoor" : "no",
+  "outdoor" : "yes",
+  "cold_tolerant" : "no",
+  "light" : "low",
+  "size" : "large",
+  "photo" : "photos/arugula.jpg",
+  "rating" : 4,
+  "difficultiness" : "easy",
+  "about" : " The plant is a plant that grows with care. You can grow and make a lovely vegtable for your at home garde. ",
+  "plant_guide" : "Grow with a lot of sun. In the spring with moist soil and a lot of water."
+}
+}

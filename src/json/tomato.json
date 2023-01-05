@@ -1,0 +1,52 @@
+{
+"campari" : {
+  "url":"campari",
+  "name" : "Camp Tomato" ,
+  "skill_level" : "novice" ,
+  "taste" : "juicy",
+  "indoor" : "no",
+  "outdoor" : "yes",
+  "plant_type": "annual",
+  "cold_tolerant" : "no",
+  "light" : "high",
+  "size" : "medium",
+  "photo" : "photos/campari.jpg",
+  "difficultiness" : "easy",
+  "about" : " The plant is a plant that grows with care. You can grow and make a lovely vegtable for your at home garde. ",
+  "plant_guide" : "Grow with a lot of sun. In the spring with moist soil and a lot of water."
+},
+"beef_steak" : {
+  "url":"beef_steak",
+  "name" : "Beef Tomato" ,
+  "skill_level" : "novice" ,
+  "taste" : "juicy",
+  "plant_type" : "annual",
+  "indoor" : "no",
+  "outdoor" : "yes",
+  "cold_tolerant" : "no",
+  "climate" : "sunny",
+  "size" : "large",
+  "photo" : "photos/beefsteak.jpg",
+  "rating" : 5,
+  "difficultiness" : "easy",
+  "about" : " The plant is a plant that grows with care. You can grow and make a lovely vegtable for your at home garde. ",
+  "plant_guide" : "Grow with a lot of sun. In the spring with moist soil and a lot of water."
+},
+"cherry" : {
+  "url": "cherry",
+  "name" : "Cheri Tomato" ,
+  "skill_level" : "novice" ,
+  "taste" : "juicy",
+  "plant_type" : "annual",
+  "indoor" : "no",
+  "outdoor" : "yes",
+  "cold_tolerant" : "no",
+  "light" : "high",
+  "size" : "large",
+  "photo" : "photos/cherry.jpg",
+  "rating" : 5,
+  "difficultiness" : "easy",
+  "about" : " The plant is a plant that grows with care. You can grow and make a lovely vegtable for your at home garde. ",
+  "plant_guide" : "Grow with a lot of sun. In the spring with moist soil and a lot of water."
+}
+}

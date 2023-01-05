@@ -1,0 +1,156 @@
+{
+    "tomatoes" : {
+        "campari" : {
+            "name" : "Campari Tomato" ,
+            "skill_level" : "novice" ,
+            "taste" : "juicy",
+            "indoor" : "no",
+            "outdoor" : "yes",
+            "plant_type": "annual",
+            "cold_tolerant" : "no",
+            "climate" : "sunny",
+            "size" : "medium",
+            "photo" : "photos/campari.jpg"
+        },
+        "beef_steak" : {
+            "name" : "Beefsteak Tomato" ,
+            "skill_level" : "novice" ,
+            "taste" : "juicy",
+            "plant_type" : "annual",
+            "indoor" : "no",
+            "outdoor" : "yes",
+            "cold_tolerant" : "no",
+            "climate" : "sunny",
+            "size" : "large",
+            "photo" : "photos/beefsteak.jpg"
+        },
+        "cherry" : {
+            "name" : "Cherry Tomatoes" ,
+            "skill_level" : "novice" ,
+            "taste" : "juicy",
+            "plant_type" : "annual",
+            "indoor" : "no",
+            "outdoor" : "yes",
+            "cold_tolerant" : "no",
+            "climate" : "sunny",
+            "size" : "large",
+            "photo" : "photos/cherry.jpg"
+        }
+    },
+        "carrots" : {
+            "imperator" : {
+                "name" : "Imperator Carrot" ,
+                "skill_level" : "novice" ,
+                "taste" : "sweet",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "plant_type": "annual",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "large",
+                "photo" : "photos/imperator.jpg"
+            },
+            "danvers" : {
+                "name" : "Danvers Carrot" ,
+                "skill_level" : "novice" ,
+                "taste" : "rich sweet",
+                "plant_type" : "annual",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "medium",
+                "photo" : "photos/danvers.jpg"
+            },
+            "nantes" : {
+                "name" : "Nantes Carrot" ,
+                "skill_level" : "novice" ,
+                "taste" : "juicy",
+                "plant_type" : "annual",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "small",
+                "photo" : "photos/nantes.jpg"
+            }
+         },
+         "lettuce" : {
+            "iceberg" : {
+                "name" : "Iceberg Lettuce" ,
+                "skill_level" : "novice" ,
+                "taste" : "crisp",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "plant_type": "annual",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "medium",
+                "photo" : "photos/iceberg.jpg"
+            },
+            "butterhead" : {
+                "name" : "Butterhead Lettuce" ,
+                "skill_level" : "novice" ,
+                "taste" : "soft, smooth",
+                "plant_type" : "annual",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "large",
+                "photo" : "photos/butterhead.jpg"
+            },
+            "arugula" : {
+                "name" : "Arugula Lettuce" ,
+                "skill_level" : "novice" ,
+                "taste" : "tart, peppery",
+                "plant_type" : "annual",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "large",
+                "photo" : "photos/arugula.jpg"
+            }
+        },
+        "broccoli" : {
+            "belstar" : {
+                "name" : "Belstar Broccoli" ,
+                "skill_level" : "novice" ,
+                "taste" : "bitter",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "plant_type": "annual",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "medium",
+                "photo" : "photos/belstar.jpg"
+            },
+            "calabrese" : {
+                "name" : "Calabrese Broccoli" ,
+                "skill_level" : "novice" ,
+                "taste" : "bitter",
+                "plant_type" : "annual",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "large",
+                "photo" : "photos/calabrese.jpg"
+            },
+            "destiny" : {
+                "name" : "Destiny Broccoli" ,
+                "skill_level" : "novice" ,
+                "taste" : "tart",
+                "plant_type" : "annual",
+                "indoor" : "no",
+                "outdoor" : "yes",
+                "cold_tolerant" : "no",
+                "climate" : "sunny",
+                "size" : "large",
+                "photo" : "photos/destiny.jpg"
+            }
+
+        }
+
+}

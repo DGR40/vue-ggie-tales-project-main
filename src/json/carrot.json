@@ -1,0 +1,53 @@
+{
+  "imperator" : {
+    "url": "imperator",
+      "name" : "Imper Carrot" ,
+      "skill_level" : "novice" ,
+      "taste" : "sweet",
+      "indoor" : "no",
+      "outdoor" : "yes",
+      "plant_type": "annual",
+      "cold_tolerant" : "no",
+      "light" : "high",
+      "size" : "large",
+      "photo" : "photos/imperator.jpg",
+      "rating" : 5,
+      "difficultiness" : "easy",
+      "about" : " The plant is a plant that grows with care. You can grow and make a lovely vegtable for your at home garde. ",
+      "plant_guide" : "Grow with a lot of sun. In the spring with moist soil and a lot of water."
+  },
+  "danvers" : {
+    "url": "denvers",
+      "name" : "Danvers Carrot" ,
+      "skill_level" : "novice" ,
+      "taste" : "rich sweet",
+      "plant_type" : "annual",
+      "indoor" : "no",
+      "outdoor" : "yes",
+      "cold_tolerant" : "no",
+      "light" : "low",
+      "size" : "medium",
+      "photo" : "photos/danvers.jpg",
+      "rating" : 4,
+      "difficultiness" : "easy",
+      "about" : " The plant is a plant that grows with care. You can grow and make a lovely vegtable for your at home garde. ",
+      "plant_guide" : "Grow with a lot of sun. In the spring with moist soil and a lot of water."
+  },
+  "nantes" : {
+    "url":"nantes",
+      "name" : "Nantes Carrot" ,
+      "skill_level" : "novice" ,
+      "taste" : "juicy",
+      "plant_type" : "annual",
+      "indoor" : "no",
+      "outdoor" : "yes",
+      "cold_tolerant" : "no",
+      "light" : "high",
+      "size" : "small",
+      "photo" : "photos/nantes.jpg",
+      "rating" : 5,
+      "difficultiness" : "easy",
+      "about" : " The plant is a plant that grows with care. You can grow and make a lovely vegtable for your at home garde. ",
+      "plant_guide" : "Grow with a lot of sun. In the spring with moist soil and a lot of water."
+  }
+}
