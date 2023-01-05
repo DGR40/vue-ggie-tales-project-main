@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/vue-ggie-tales-project-main/sw.js', { scope: '/vue-ggie-tales-project-main/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/dgr40.github.io/vue-ggie-tales-project-main/sw.js', { scope: '/dgr40.github.io/vue-ggie-tales-project-main/' })})}
